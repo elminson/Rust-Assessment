@@ -15,7 +15,7 @@ Develop a Rust program that simulates a simple text-based game of Hangman. The p
 
 - Implement the program in Rust.
 - Utilize Rust's standard libraries for user input and randomization.
-- Ensure the list of words is hardcoded within the program to prevent copying from the web.
+- Ensure the list of words is hardcoded within the program (read from a file).
 - Provide a clear and intuitive command-line interface (CLI) for players to interact with the game.
 - Write clean and well-documented code.
 - Implement error handling for user input and game logic.
