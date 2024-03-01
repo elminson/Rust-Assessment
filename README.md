@@ -23,7 +23,7 @@ Develop a Rust program that simulates a simple text-based game of Hangman. The p
 
 ### Example Usage:
 
-<img src="example.jpg">
+<img src="example.png">
 
 ### Evaluation Criteria:
 
